@@ -6,7 +6,7 @@ public class Main{
     int choice;
 
     do{
-      System.out.println("===== ShopSync Lite =====");
+      System.out.println("===== ShopSync =====");
       System.out.println("1. Add Product");
       System.out.println("2. View Product");
       System.out.println("3. Exit");
